@@ -13,9 +13,6 @@
 
 🌱 I’m currently learning: Spring 6 & SpringBoot 3<br>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJjaGJmZm00YXY1cmpiaHJvNXc1ejI5MmNnaWd4OHdueWx1ODZrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8PBHolXjrUV7DuRtbG/giphy.gif" alt="Funny GIF">
-
-![alt text](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJjaGJmZm00YXY1cmpiaHJvNXc1ejI5MmNnaWd4OHdueWx1ODZrNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8PBHolXjrUV7DuRtbG/giphy.gif)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bturatov) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:baatyrbekturatov25@gmail.com) 
