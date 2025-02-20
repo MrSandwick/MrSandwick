@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Sitemap</title>
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="script.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header, footer {
+            background: #333;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+        }
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin: 0 15px;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+        }
+        main {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            border-radius: 5px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        button {
+            background: #007BFF;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        button:hover {
+            background: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">Link One</a></li>
+                <li><a href="#">Link Two</a></li>
+                <li><a href="#">Link Three</a></li>
+                <li><a href="#">Link Four</a></li>
+            </ul>
+            <button onclick="showAlert()">Button</button>
+            <button onclick="showAlert()">Button</button>
+        </nav>
+    </header>
+    
+    <main>
+        <section>
+            <h2>Page Group One</h2>
+            <ul>
+                <li>Page One</li>
+                <li>Page Two</li>
+                <li>Page Three</li>
+                <li>Page Four</li>
+            </ul>
+        </section>
+        
+        <section>
+            <h2>Page Group Two</h2>
+            <ul>
+                <li>Page Five</li>
+                <li>Page Six</li>
+                <li>Page Seven</li>
+                <li>Page Eight</li>
+            </ul>
+        </section>
+        
+        <section>
+            <h2>Page Group Three</h2>
+            <ul>
+                <li>Page Nine</li>
+                <li>Page Ten</li>
+                <li>Page Eleven</li>
+                <li>Page Twelve</li>
+            </ul>
+        </section>
+        
+        <section>
+            <h2>Featured from Blog</h2>
+            <article>
+                <h3>Article Title</h3>
+                <p>Lorem ipsum dolor sit amet consectetur elit.</p>
+                <button onclick="showAlert()">Read More</button>
+            </article>
+        </section>
+        
+        <section>
+            <h2>Portfolio</h2>
+            <article>
+                <h3>Project Name Here</h3>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                <button onclick="showAlert()">View Project</button>
+            </article>
+            <button onclick="showAlert()">View All</button>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2024 Relume. All rights reserved.</p>
+        <nav>
+            <ul>
+                <li><a href="#">Privacy Policy</a></li>
+                <li><a href="#">Terms of Service</a></li>
+                <li><a href="#">Cookies Settings</a></li>
+            </ul>
+        </nav>
+    </footer>
+    
+    <script>
+        function showAlert() {
+            alert("Button clicked!");
+        }
+    </script>
+</body>
+</html>
