@@ -12,6 +12,8 @@
 <p>I am a junior student at National Louis University with a strong passion for programming and software development. My expertise lies in building dynamic and responsive web applications, utilizing both Front-End and Back-End technologies. I am committed to staying up to date with the latest advancements in the tech industry and continuously expanding my skill set. To enhance my knowledge, I actively engage with online learning platforms such as Udemy and Coursera. Additionally, I enjoy working on fan projects that allow me to apply and refine my programming skills in creative ways.</p>
 
 🌱 I’m currently learning: Spring 6 & SpringBoot 3<br>
+🌱 I’m currently learning: Python<br>
+🌱 I’m currently learning: MySQL<br>
 
 
 ## 🌐 Socials:
