@@ -7,10 +7,10 @@ I build projects across **web development**, **DevOps**, and **data/AI**, and I 
 - 🎯 Focus areas: **Full-Stack Development**, **Cloud/DevOps**, **Data & ML**
 
 ## Tech Stack
-**Web:** React, JavaScript, HTML, CSS, SASS, Three.js, Tailwind 
-**Backend:** Java, Python, MySQL, PostgresSQL, MongoDB
-**DevOps/Cloud:** Git, GitHub, Docker, Jenkins, AWS, Terraform  
-**Data/ML:** Pandas, NumPy, Matplotlib, scikit-learn, TensorFlow  
+**Web:** React, JavaScript, HTML, CSS, SASS, Three.js, Tailwind
+**Backend:** Java, Python, MySQL, PostgreSQL, MongoDB
+**DevOps/Cloud:** Git, GitHub, Docker, Jenkins, AWS, Terraform
+**Data/ML:** Pandas, NumPy, Matplotlib, scikit-learn, TensorFlow
 **Tools:** Figma, Bash
 
 ## Links
