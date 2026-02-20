@@ -7,11 +7,11 @@ I build projects across **web development**, **DevOps**, and **data/AI**, and I 
 - 🎯 Focus areas: **Full-Stack Development**, **Cloud/DevOps**, **Data & ML**
 
 ## Tech Stack
-**Web:** React, JavaScript, HTML, CSS, SASS, Three.js, Tailwind
-**Backend:** Java, Python, MySQL, PostgreSQL, MongoDB
-**DevOps/Cloud:** Git, GitHub, Docker, Jenkins, AWS, Terraform
-**Data/ML:** Pandas, NumPy, Matplotlib, scikit-learn, TensorFlow
-**Tools:** Figma, Bash
+**Web:** React, JavaScript, HTML, CSS, SASS, Three.js, Tailwind</br>
+**Backend:** Java, Python, MySQL, PostgreSQL, MongoDB</br>
+**DevOps/Cloud:** Git, GitHub, Docker, Jenkins, AWS, Terraform</br>
+**Data/ML:** Pandas, NumPy, Matplotlib, scikit-learn, TensorFlow</br>
+**Tools:** Figma, Bash</br>
 
 ## Links
 - LinkedIn: https://linkedin.com/in/bturatov  
